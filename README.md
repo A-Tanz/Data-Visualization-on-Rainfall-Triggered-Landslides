@@ -1,5 +1,6 @@
 # Data-Visualization-on-Rainfall-Triggered-Landslides
-A Repository which contains data visualization on the dataset of Global Rainfall Triggered Landslide
+A Repository which contains data visualization on the dataset of Global Rainfall Triggered Landslide\
+[Link](https://tome.app/information-visualization-583/information-visualization-clfr1v6yjc4tz85pep049cp86) for the Storytelling Presentation of rainfall triggered landslide
 # Why using this dataset?
 The primary motivations for using this data-set is to approximate the spatial and temporal trends in landslide occurrences on the global scale and to use the data to evaluate a preliminary global landslide hazard algorithm. The catalog compiled for our study includes all landslide events that are clearly triggered by rainfall conditions. The catalog considers considers all types of mass movements triggered by rainfall (from shallow debris flows to deep seated complex rotational slides), which have been reported in the media, disaster databases, scientific reports, or other sources.
 # Team Members
@@ -16,3 +17,4 @@ The primary motivations for using this data-set is to approximate the spatial an
 * Click [here](https://drive.google.com/file/d/1AOET75OqwMO06htRx5r5ErsoKXvAKLbI/view) to the storytelling from the dataset
 * [Link](https://colab.research.google.com/drive/1Zmc-d_XLXloTX0uwOHMbPSIRzrlDfJtI?usp=sharing) for the google collab python file used for visualization.
 * [Link](https://www.overleaf.com/project/63d66c897177863b4744966b) for dataset report of rainfall triggered landslide dataset.
+*[Link](https://tome.app/information-visualization-583/information-visualization-clfr1v6yjc4tz85pep049cp86) for the Storytelling Presentation of rainfall triggered landslide
