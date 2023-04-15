@@ -6,7 +6,7 @@ The primary motivations for using this data-set is to approximate the spatial an
 | Name |  Reg. No.  | 👨‍💻Github| Webpage Link| Dataset Report |
 |:-----:|:--------:|:------:|:------:|:------:|
 |Prateek        |(RA2011003010491)| [Prateek-sn-coder](https://github.com/Prateek-sn-coder)|[Link](https://prateek-sn-coder.github.io/18CSE301J_RA2011003010491/)||
-|Ayush Abhigyan |(RA2011003010493)| [AlpacaMan14](https://github.com/AlpacaMan14)|[Link](https://alpacaman14.github.io/18CSE301J_RA2011003010493/)||
+|Ayush Abhigyan |(RA2011003010493)| [AlpacaMan14](https://github.com/AlpacaMan14)|[Link](https://alpacaman14.github.io/18CSE301J_RA2011003010493/)|[Link](https://www.overleaf.com/project/63d6587be91f6ab0db5578ca)|
 |Afraz Tanvir   |(RA2011003010499)| [A-Tanz](https://github.com/A-Tanz)|[Link](https://a-tanz.github.io/18CSE301J_RA2011003010499/)|[Link](https://www.overleaf.com/read/fcsxdxxwhydt)|
 |Soham Ghosh    |(RA2011003010504)| [SohamGhosh3101](https://github.com/SohamGhosh3101)|[Link](https://sohamghosh3101.github.io/18CSE301J_RA2011003010504/)||
 |Suyash Joshi   |(RA2011003010508)| [suyashjoshi404](https://github.com/suyashjoshi404)|[Link](https://altacc4502.github.io/18CSE301J_RA2011003010508/)||
