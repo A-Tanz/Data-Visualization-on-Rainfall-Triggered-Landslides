@@ -4,6 +4,7 @@ A Repository which contains data visualization on the dataset of Global Rainfall
 # Why using this dataset?
 The primary motivations for using this data-set is to approximate the spatial and temporal trends in landslide occurrences on the global scale and to use the data to evaluate a preliminary global landslide hazard algorithm. The catalog compiled for our study includes all landslide events that are clearly triggered by rainfall conditions. The catalog considers considers all types of mass movements triggered by rainfall (from shallow debris flows to deep seated complex rotational slides), which have been reported in the media, disaster databases, scientific reports, or other sources.
 # Team Members
+#### Team Description
 | Name |  Reg. No.  | 👨‍💻Github| Webpage Link| Dataset Report |
 |:-----:|:--------:|:------:|:------:|:------:|
 |Prateek        |(RA2011003010491)| [Prateek-sn-coder](https://github.com/Prateek-sn-coder)|[Link](https://prateek-sn-coder.github.io/18CSE301J_RA2011003010491/)|[Link](https://www.overleaf.com/read/wfcqmgscbggc)|
@@ -12,6 +13,10 @@ The primary motivations for using this data-set is to approximate the spatial an
 |Soham Ghosh    |(RA2011003010504)| [SohamGhosh3101](https://github.com/SohamGhosh3101)|[Link](https://sohamghosh3101.github.io/18CSE301J_RA2011003010504/)|[Link](https://www.overleaf.com/read/wkgfcttbwqjr)|
 |Suyash Joshi   |(RA2011003010508)| [suyashjoshi404](https://github.com/suyashjoshi404)|[Link](https://altacc4502.github.io/18CSE301J_RA2011003010508/)||
 |Basit Hasan    |(RA2011003010532)| [basit9958](https://github.com/basit9958)|[Link](https://basit9958.github.io/18CSE301J-RA2011003010532/)|[Link](https://nl.overleaf.com/read/bqwxcbytttnb)|
+#### Team Storytelling Assignment
+|Storytelling|
+|:-----:|
+|[Link](https://drive.google.com/file/d/1AOET75OqwMO06htRx5r5ErsoKXvAKLbI/view)|
 # Important Links
 * Global Rainfall Triggered Landslide Datasource -> [https://svs.gsfc.nasa.gov/4710](https://svs.gsfc.nasa.gov/4710)
 * Click [here](https://drive.google.com/file/d/1AOET75OqwMO06htRx5r5ErsoKXvAKLbI/view) for the storytelling from the dataset
