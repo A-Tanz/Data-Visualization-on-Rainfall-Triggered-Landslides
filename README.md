@@ -14,7 +14,8 @@ The primary motivations for using this data-set is to approximate the spatial an
 |Basit Hasan    |(RA2011003010532)| [basit9958](https://github.com/basit9958)|[Link](https://basit9958.github.io/18CSE301J-RA2011003010532/)||
 # Important Links
 * Global Rainfall Triggered Landslide Datasource -> [https://svs.gsfc.nasa.gov/4710](https://svs.gsfc.nasa.gov/4710)
-* Click [here](https://drive.google.com/file/d/1AOET75OqwMO06htRx5r5ErsoKXvAKLbI/view) to the storytelling from the dataset
+* Click [here](https://drive.google.com/file/d/1AOET75OqwMO06htRx5r5ErsoKXvAKLbI/view) for the storytelling from the dataset
+* Click [here](https://public.tableau.com/views/RainfallTriggeredLandslides/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link) to visit tableau public visualization.
 * [Link](https://colab.research.google.com/drive/1Zmc-d_XLXloTX0uwOHMbPSIRzrlDfJtI?usp=sharing) for the google collab python file used for visualization.
 * [Link](https://www.overleaf.com/project/63d66c897177863b4744966b) for dataset report of rainfall triggered landslide dataset.
 * [Link](https://tome.app/information-visualization-583/information-visualization-clfr1v6yjc4tz85pep049cp86) for the Storytelling Presentation of rainfall triggered landslide
